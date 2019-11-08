@@ -15,7 +15,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TFmomikT3lurVE3FwLxtJIHA3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.t_kinter_toolbar">
-    <configuration name="t_kinter_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.t_kinter_shapes">
+    <configuration name="T_kinter_messagebox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_kinter_classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T_kinter_messagebox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t_kinter_mouse_click_events" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="t_kinter_shapes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tkinter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_kinter_mouse_click_events.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_kinter_shapes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.t_kinter_shapes" />
+        <item itemvalue="Python.T_kinter_messagebox" />
         <item itemvalue="Python.t_kinter_toolbar" />
         <item itemvalue="Python.t_kinter_dropdown_sample" />
         <item itemvalue="Python.t_kinter_dropdownmenu" />
-        <item itemvalue="Python.t_kinter_classes" />
-        <item itemvalue="Python.t_kinter_mouse_click_events" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +164,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -164,6 +182,11 @@
           <url>file://$PROJECT_DIR$/t_kinter_dropdownmenu.py</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_kinter_shapes.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
